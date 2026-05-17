@@ -49,7 +49,7 @@ Predict the expected freight cost for a vendor invoice using invoice value and h
 
 > 📸 *Freight Cost Prediction Module:*
 >
-> ![Freight Cost Prediction](assets/freight_cost_prediction.PNG)
+> ![Freight Cost Prediction](images/freight_prediction.png)
 
 ---
 
