@@ -65,7 +65,7 @@ Predict whether a vendor invoice should be flagged for manual approval due to ab
 
 > 📸 *Invoice Risk Flagging Module:*
 >
-> ![Invoice Risk Flagging](assets/invoice_flagging.PNG)
+> ![Invoice Risk Flagging](images/flag_invoice_prediction.png)
 
 ---
 
